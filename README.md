@@ -10,7 +10,7 @@ Ecosystem Fund Allocation
 
 > ### **TEAM DESCRIPTION:**
 
-I am Alok and I am a mobile+web3 developer. I started my Apecoin builder journey at ETHGlobal hackathons, where I built upon and won multiple Apecoin tracks in [Lisbon](https://ethglobal.com/showcase/otherswipe-for-the-otherside-qmdmm), [New York](https://ethglobal.com/showcase/vouch-messenger-qqvjm) and [ETHOnline](https://ethglobal.com/showcase/perks-gv9d1), as part of [AIP-230](https://forum.apecoin.com/t/aip-230-i-dont-hate-apes-i-just-want-them-to-fund-public-goods/11280). I recently got onboarded as a hackathon partner by @maariab for Apecoin DAO at ETHGlobal, where I was responsible for interaction and support for builders, picking web3 tech and trends for bounty tracks and judging projects at ETHGlobal Istanbul Devconnect Edition and ETHGlobal London. 
+I am Alok and I am a mobile+web3 developer. I started my Apecoin builder journey at ETHGlobal hackathons, where I built upon and won multiple Apecoin tracks in [Lisbon](https://ethglobal.com/showcase/otherswipe-for-the-otherside-qmdmm), [New York](https://ethglobal.com/showcase/vouch-messenger-qqvjm) and [ETHOnline](https://ethglobal.com/showcase/perks-gv9d1), as part of [AIP-230](https://forum.apecoin.com/t/aip-230-i-dont-hate-apes-i-just-want-them-to-fund-public-goods/11280). I recently got onboarded as a hackathon partner by @maariab for Apecoin DAO at ETHGlobal, where I was responsible for support for builders, researching web3 tech and trends for bounty tracks and judging projects at ETHGlobal Istanbul Devconnect Edition and ETHGlobal London.
 
 TLDR; I've built some stuff myself and seen a lot of great work by others for the Apecoin ecosystem.
 
